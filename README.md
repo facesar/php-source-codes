@@ -102,3 +102,41 @@ print "<h1> php is fun!</h1>";
 print "Hello World!<br>";
 ?>
 ```
+
+Here you can find PHP projects
+
+# **Project-1**
+
+## College Management System In PHP
+
+The College Management System is a simple project for keeping records of students, teachers, subjects, schedules, and all the college-related things. The project contains the user and admin sides. The admin has to manage all the management like adding students’ or teachers’ details and view their information as per the need. Admin has an important role in the management of this system. This project makes a convenient way for any educational organization to keep records of their students and teachers.
+
+## About System
+
+This College Management System is in PHP, javascript, and CSS. Talking about the features of this system, it contains the user and Admin section. From here, the admin can view all the records of the enrolled students and registered teachers. Also, you can edit or delete any details as per the requirements.
+
+The design of this project is pretty simple so that the user won’t find any difficulties while working on it. This System in PHP helps in easy management of various records of the students.
+
+ <h3 style="color:#C77474">First file <strong style="color:aqua">index.php</strong></h3>
+
+ 
+ ```sh
+ <?php ?>
+<div class="home-div"></div>
+<div class="w-100 in-ad-ap">
+    <div class="row m-auto text-center">
+        <div class="col-md-4"><h3>INTRODUCING-ICBS</h3></div>
+        <div class="col-md-4"><h3>ADMISSION POLICY</h3></div>
+        <div class="col-md-4"><h3>APPLY NOW</h3></div>
+    </div>
+</div>
+<div class="paragraph">
+    <p>ICBS provides a harmonious enviroment and learning opportunities to its students regardless of their gender, socioeconomic background, religious beliefs and regional defferences</p>
+</div>
+
+<?php ?>
+<?php ?>
+
+</body>
+</html>
+```
