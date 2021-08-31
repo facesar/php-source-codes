@@ -1,0 +1,25 @@
+/* heading font size goes here*/
+
+h1 {
+    font-size: 35px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+h4 {
+    font-size: 22px;
+}
+
+/* end heading style here*/
+
+/* header area goes here */
+
+.header-back {
+    background: #5e0209;
+}

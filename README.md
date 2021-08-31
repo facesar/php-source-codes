@@ -121,7 +121,7 @@ The design of this project is pretty simple so that the user won’t find any di
 
  
  ```sh
- <?php ?>
+ <?php include('common/header.php') ?>
 <div class="home-div"></div>
 <div class="w-100 in-ad-ap">
     <div class="row m-auto text-center">
@@ -134,8 +134,8 @@ The design of this project is pretty simple so that the user won’t find any di
     <p>ICBS provides a harmonious enviroment and learning opportunities to its students regardless of their gender, socioeconomic background, religious beliefs and regional defferences</p>
 </div>
 
-<?php ?>
-<?php ?>
+<?php include('common/cards.php') ?>
+<?php include('commom/footer.php') ?>
 
 </body>
 </html>
